@@ -3,14 +3,14 @@
     "DB_URL": "",
     "DB_COLLECTION": "expenses",
     "DB_COLLECTION_MISC": "misc",
-    "BOT_TOKEN": "",
-    "BOT_NAME": "",
-    "BOT_TELEGRAM_USERNAME": "",
+    "BOT_TOKEN": "8175440727:AAF7wlC09X58Hu6cImbJ2gPPywnRXymke6I",
+    "BOT_NAME": "aesy money bot",
+    "BOT_TELEGRAM_USERNAME": "cashitobot",
     "WEBHOOK_MODE": true,
     "PORT": 3010,
     "BIND_IP4": "127.0.0.1",
     "ADMINS": [],
     "RATE_LIMIT": 250,
-    "MAINTENANCE_MESSAGE": null,
+    "MAINTENANCE_MESS,
     "ALERT_MESSAGE": null
 }
